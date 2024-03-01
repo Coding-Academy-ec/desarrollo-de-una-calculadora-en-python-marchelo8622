@@ -3,11 +3,11 @@ def sumar(a, b):
     # aqui se realiza la suma de dos numeros
 
 def restar(a, b):
-    return a + b
+    return a - b
     # aqui se realiza la resta de dos numeros
 
 def multiplicar(a, b):
-    return a + b
+    return a * b
     # aqui se realiza la multiplicacion de dos numeros
 
 def dividir(a, b):
